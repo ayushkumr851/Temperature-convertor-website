@@ -1,1 +1,1 @@
-# oasis-infobite_task3
+Task 3:-We need to create temperature converter website using HTML,CSS and Java Script.The user will input a temperature in either Fahrenheit , Celsius or Kelvin . The converted temperature will then be displayed in other two simultaneously.
